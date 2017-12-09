@@ -19,6 +19,8 @@ import javax.swing.JOptionPane;
 
 /**
  * @author Kartik
+ * @author Rahul
+ * @author Soumya
  *
  */
 public class EntryClass extends CheckForUser {
