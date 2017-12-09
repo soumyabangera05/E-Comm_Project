@@ -131,7 +131,7 @@ public class EntryClass extends CheckForUser {
 						{
 							System.out.println("File not found");
 						}
-						bill.println(" *****WELCOME TO KARTIK'S KART***** \n Here is your purchase \n");
+						bill.println(" *****WELCOME TO E-COMM KART***** \n Here is your purchase \n");
 						for(int i=0;i<cartList.size();i++)
 						{
 							listOfProducts cartObj=new listOfProducts();

@@ -1,0 +1,15 @@
+ *****WELCOME TO KARTIK'S KART***** 
+ Here is your purchase 
+
+Product name Samsung Galaxy 7
+Product price 899.0
+
+Product name RedMI Note 5
+Product price 399.0
+
+Tax 175.23000000000002
+Total price (Inc all taxes) 1473.23
+
+ *****Have a Good Day*****
+
+2017-12-09T09:06:07.430-05:00[America/New_York]
